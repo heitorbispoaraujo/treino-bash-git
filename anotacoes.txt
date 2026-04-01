@@ -1,1 +1,2 @@
 Estudando comandos de terminal
+aprendendo git
